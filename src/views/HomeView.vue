@@ -3,8 +3,11 @@
 
 <template>
   <main>
-    <h1>HELLO🙂</h1>
-    <h3>HI THERE 👋.....<b>Welcome</b>, on this particular space i'll be showcasing my github repos which  you can find in The next page 👉 </h3> 
+    <h1>HELLO👋</h1>
+    <h3><b>Welcome! 🙂</b></h3> 
+    <h3>On this space, I'll be showcasing my github repository with all of the amazing projects I have created. You can find them on the next page 👉 </h3>
+    <h3>I hope you find them as much fun as I did in building them.</h3>
+    <h2>Enjoy! 🙂</h2>
   </main>
   
 </template>
